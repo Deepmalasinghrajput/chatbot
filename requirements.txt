@@ -1,0 +1,16 @@
+numpy
+matplotlib
+seaborn
+setuptools
+transformers
+datasets
+torch
+pandas
+scikit-learn
+flask 
+
+
+
+-e .
+
+ 
